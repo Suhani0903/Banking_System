@@ -1,4 +1,4 @@
-Banking System
+**Banking System**
 Description
 This Banking System is a user-friendly application designed to simplify common banking operations. Developed using Eclipse, JDBC, and MySQL, the system provides a secure platform for managing financial transactions.
 
